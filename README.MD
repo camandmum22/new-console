@@ -1,4 +1,4 @@
-This is your new Play application
+NewConsole
 =====================================
 
-This file will be packaged with your application, when using `play dist`.
+NewConsole is a web application that emulates a simple Command Prompt Console.
