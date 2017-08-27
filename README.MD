@@ -1,5 +1,5 @@
 # NewConsole
-=====================================
+
 ## Software Stack
 * JavaScript, Node.js, CSS, HTML, Bootstrap, jQuery, Java, PlayFramework
 ## Summary
